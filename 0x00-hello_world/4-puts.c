@@ -1,8 +1,9 @@
 #include <stdio.h>
+
 /**
- * The main function 
+ * The main function where it allows us to write a program
  *
- * Return value (0)
+ * Return always returns value (0)
  */
 int main(void)
 {
