@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+#include <stdlib.h>
 /**
  * main - prints possible combinations
  * of single-digit numbers.
@@ -9,7 +9,7 @@ int main(void)
 {
 	int n = 0;
 
-	while (1 < 10)
+	while (n < 10)
 	{
 		putchar(n + 48);
 		if (n != 9)
