@@ -1,4 +1,5 @@
 #include "main.h"
+
 /**
  * main - tests whether function is +ve or -ve
  * Return: 0
